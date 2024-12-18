@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+.logo-img{
+    margin-left: 70px;
+    margin-top: 20px
+}
+.logo-word{
+    margin-top: -40px;
+    margin-left: 140px;
+
+    color: white;
+}
+div ul li{
+    display: inline;
+    margin: 0 20px;
+}
+div ul{
+    margin-left: 370px;
+    margin-top: -50px;
+
+    color: white;
+}
+.detail{
+    margin: 0;
+}
